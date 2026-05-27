@@ -1,2 +1,1 @@
-#index.html
-Site de raspadinha da sorte
+index.html
